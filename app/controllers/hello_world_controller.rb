@@ -1,6 +1,6 @@
 class HelloWorldController < ApplicationController
 
-  def hello_world
+  def hello
     render 'hello_world'
   end
 
